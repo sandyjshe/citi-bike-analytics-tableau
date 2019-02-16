@@ -31,7 +31,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ### Assessment
 
-[Download dashboard here](https://www.dropbox.com/s/ehvkesflu7vlvsu/citibike_ucb.twbx?dl=0) for full detail and interaction.
+[Download dashboard here](https://www.dropbox.com/s/ehvkesflu7vlvsu/citibike_ucb.twbx?dl=0) for full detail and interaction or view pdf above.
 
 ## Copyright
 
